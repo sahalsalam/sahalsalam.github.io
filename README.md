@@ -15,13 +15,14 @@ A fab lab a.k.a fabrication laboratory is a small-scale workshop which is equipp
 
 There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFABLAB is one of this 20 mini fablab, where the students have the oppurtunity to explore the FAB world.
 
-> click [**`here`**](https://www.fablabs.io/labs/mesce) to see our Fablab page
+> click [**`here`**](https://www.fablabs.io/labs/mesce) to see our Fablab pag
 
 + ## FABLAB TRAINING
 
 This course gives an introductory knowledge to the students about FabLab and the application of it in the academic engineering and project prototyping. The class is conducted by FabLab division of MESCE, Kuttippuram and is lead by Mr. Muhammed Jaseel.
 
 + ### CONTENTS
+
 ``` 1. 3D Printing
     2. CNC-Milling
     3. Circuit production
@@ -29,32 +30,3 @@ This course gives an introductory knowledge to the students about FabLab and the
     5. Precision milling
     6. Vinyl cutting
     ```
-r
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sahalsalam/sahalsalam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
