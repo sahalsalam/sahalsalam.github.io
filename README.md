@@ -16,7 +16,7 @@ A fab lab a.k.a fabrication laboratory is a small-scale workshop which is equipp
 
 There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFABLAB is one of this 20 mini fablab, where the students have the oppurtunity to explore the FAB world.
 
-click[here](https://www.fablabs.io/labs/mesce) to see our Fablab page
+click [**here**](https://www.fablabs.io/labs/mesce) to see our Fablab page
 
 ### Markdown
 
