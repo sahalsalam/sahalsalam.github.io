@@ -8,7 +8,7 @@ Kuttippuram. As iam doing a crash course on fablab, i would like to share my tho
 experiances through this page. Check this page to more on 3D printer, vinyl cutting, pcb 
 milling & laser cutting machine.
 
-Click [**`here`**](https://www.facebook.com/sahalcity) to check out my facebook page
+> Click [**`here`**](https://www.facebook.com/sahalcity) to check out my facebook page
 
 + **ABOUT FABLAB**
 
@@ -16,14 +16,14 @@ A fab lab a.k.a fabrication laboratory is a small-scale workshop which is equipp
 
 There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFABLAB is one of this 20 mini fablab, where the students have the oppurtunity to explore the FAB world.
 
-click [**`here`**](https://www.fablabs.io/labs/mesce) to see our Fablab page
+> click [**`here`**](https://www.fablabs.io/labs/mesce) to see our Fablab page
 
 + ## FABLAB TRAINING
 
 This course gives an introductory knowledge to the students about FabLab and the application of it in the academic engineering and project prototyping. The class is conducted by FabLab division of MESCE, Kuttippuram and is lead by Mr. Muhammed Jaseel.
 
 + ### CONTENTS
->> 3D
+* 3D
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
