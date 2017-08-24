@@ -8,7 +8,7 @@ Kuttippuram. As iam doing a crash course on fablab, i would like to share my tho
 experiances through this page. Check this page to more on 3D printer, vinyl cutting, pcb 
 milling & laser cutting machine.
 
-Click [__here_**](https://www.facebook.com/sahalcity) to check out my facebook page
+Click [__here__](https://www.facebook.com/sahalcity) to check out my facebook page
 
 + **ABOUT FABLAB**
 
@@ -16,7 +16,7 @@ A fab lab a.k.a fabrication laboratory is a small-scale workshop which is equipp
 
 There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFABLAB is one of this 20 mini fablab, where the students have the oppurtunity to explore the FAB world.
 
-click [__here_**](https://www.fablabs.io/labs/mesce) to see our Fablab page
+click [__here__](https://www.fablabs.io/labs/mesce) to see our Fablab page
 
 ### Markdown
 
