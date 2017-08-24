@@ -1,7 +1,7 @@
 
 ## MY Fablab Documentation
 
-**ABOUT ME**
++**ABOUT ME**
 
 I'm a final year student of B-tech Mechanical engineering at MES college of engineering,
 Kuttippuram. As iam doing a crash course on fablab, i would like to share my thoughts and 
