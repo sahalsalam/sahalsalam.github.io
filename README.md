@@ -22,7 +22,13 @@ There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFAB
 This course gives an introductory knowledge to the students about FabLab and the application of it in the academic engineering and project prototyping. The class is conducted by FabLab division of MESCE, Kuttippuram and is lead by Mr. Muhammed Jaseel.
 
 + ### CONTENTS
-    + 3D
+    1. 3D Printing
+    2. CNC-Milling
+    3. Circuit production
+    4. Laser
+    5. Precision milling
+    6. Vinyl cutting
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
