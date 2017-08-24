@@ -8,7 +8,7 @@ Kuttippuram. As iam doing a crash course on fablab, i would like to share my tho
 experiances through this page. Check this page to more on 3D printer, vinyl cutting, pcb 
 milling & laser cutting machine.
 
-Click [__here__](https://www.facebook.com/sahalcity) to check out my facebook page
+Click [`here`](https://www.facebook.com/sahalcity) to check out my facebook page
 
 + **ABOUT FABLAB**
 
