@@ -25,7 +25,7 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 + ### CONTENTS
 >   1. [3D Printing](## 3D printing)
->   2. Vinyl cutting
+>   2. [Vinyl cutting](## Vinyl cutting)
 >   3. Circuit production
 >   4. Laser
 >   5. Precision milling
@@ -42,6 +42,8 @@ This course gives an introductory knowledge to the students about FabLab and the
 > ### Ultimaker 2+
 
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true" width="350" height="500" />
+
+<img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untitled.jpg?raw=true" width="350" height="196" /> | <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untit.jpg?raw=true" width="350" height="196" />
 
 + #### Softwares
   For designing,
