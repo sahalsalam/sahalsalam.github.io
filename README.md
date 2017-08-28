@@ -25,9 +25,9 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 + ### CONTENTS
     1. 3D Printing
-    2. CNC-Milling
+    2. Vinyl cutting
     3. Circuit production
     4. Laser
     5. Precision milling
-    6. Vinyl cutting
+    6. CNC-Milling
     
