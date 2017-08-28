@@ -47,7 +47,7 @@ This course gives an introductory knowledge to the students about FabLab and the
   For designing,
   >   1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
       2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
-      3. [Rhinoceros 5](https://www.rhino3d.com/download/rhino/5/latest)
+      3. [Rhinoceros-5](https://www.rhino3d.com/download/rhino/5/latest)
  
   For slicing,
   >   1. [Cura](https://ultimaker.com/en/products/cura-software)
