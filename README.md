@@ -41,7 +41,7 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 > ### Ultimaker 2+
 
-![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true =100x50)
+![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true =50x20)
 
 + #### Softwares
   For designing,
