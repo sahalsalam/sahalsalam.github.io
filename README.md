@@ -24,11 +24,11 @@ There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFAB
 This course gives an introductory knowledge to the students about FabLab and the application of it in the academic engineering and project prototyping. The class is conducted by FabLab division of MESCE, Kuttippuram and is lead by Mr. Muhammed Jaseel.
 
 + #### CONTENTS
->   1. [3D Printing](###3D printing)
->   2. [Vinyl cutting](### Vinyl cutting)
->   3. CNC-Milling
->   4. Laser
->   5. Precision milling
+>   1. [3D Printing](#3D printing)
+>   2. [Vinyl cutting](#Vinyl cutting)
+>   3. [CNC-Milling](#CNC-Milling)
+>   4. [Laser](#laser)
+>   5. [Precision milling](#precision milling)
     
 + ### 3D Printing
 
@@ -53,7 +53,7 @@ This course gives an introductory knowledge to the students about FabLab and the
   For slicing,
   >   1. [Cura](https://ultimaker.com/en/products/cura-software)
 
-### Vinyl cutting
++ ### Vinyl cutting
 
 A vinyl cutter is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
 
