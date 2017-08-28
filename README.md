@@ -23,14 +23,14 @@ There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFAB
 
 This course gives an introductory knowledge to the students about FabLab and the application of it in the academic engineering and project prototyping. The class is conducted by FabLab division of MESCE, Kuttippuram and is lead by Mr. Muhammed Jaseel.
 
-+ ### CONTENTS
++ #### CONTENTS
 >   1. [3D Printing](##3D printing)
 >   2. [Vinyl cutting](##Vinyl cutting)
 >   3. CNC-Milling
 >   4. Laser
 >   5. Precision milling
     
-+ ## 3D Printing
++ ### 3D Printing
 
  3D printing is when 3D solid objects are made from a model on a computer. 3D printing is done by building up the object layer by layer. It is an additive manufacturing process used to create a three-dimensional object in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source. STL is one of the most common file types that 3D printers can read.
 
@@ -38,13 +38,13 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 ![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
-> ### Ultimaker 2+
+> #### Ultimaker 2+
 
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true" width="350" height="500" />
 
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untitled.jpg?raw=true" width="497" height="280" /> | <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untit.jpg?raw=true" width="497" height="280" />
 
-+ #### Softwares
++ ##### Softwares
   For designing,
   >   1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
   >   2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
@@ -53,7 +53,7 @@ This course gives an introductory knowledge to the students about FabLab and the
   For slicing,
   >   1. [Cura](https://ultimaker.com/en/products/cura-software)
 
-+ ## Vinyl cutting
++ ### Vinyl cutting
 
 A vinyl cutter is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
 
@@ -61,11 +61,15 @@ A vinyl cutter is a computer-controlled plotting device with a blade instead of 
 
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170824_193636.jpg?raw=true" width="497" height="372" /> | <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170824_195915.jpg?raw=true" width="497" height="372" />
 
-+ ## CNC Milling
++ ### CNC Milling
 
 CNC milling is a specific form of computer numerical controlled (CNC) machining. Milling itself is a machining process similar to both drilling and cutting, and able to achieve many of the operations performed by cutting and drilling machines. Like drilling, milling uses a rotating cylindrical cutting tool. However, the cutter in a milling machine is able to move along multiple axes, and can create a variety of shapes, slots and holes.
 
 
 
 ShopBot Desktop is a digital fabrication powerhouse. In addition to impressive woodworking capabilities, the Desktop delivers engraving level precision and the power and rigidity to machine parts from wood, plastic, aluminum, and other materials. The Desktop can perform a wide range of workbench, prototyping and production projects. And it is a flexible platform to support your growing digital fabrication interests and needs
+
++ ### Laser
+
+Laser cutting is a precise method of cutting a design from a given material using a CAD file to guide it. There are three main types of lasers used in the industry: CO2 lasers Nd and Nd-YAG. This involves firing a laser which cuts by melting, burning or vaporizing your material. Fine level of cutting can be achieved on a wide variety of materials. Since CO2 lasers can’t cut metals and hard materials, they can however engrave on the material. Raster is used for engraving things, while vector is much more adept for cutting.
 
