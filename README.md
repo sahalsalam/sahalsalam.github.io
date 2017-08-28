@@ -44,11 +44,12 @@ This course gives an introductory knowledge to the students about FabLab and the
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true" width="350" height="500" />
 
 + #### Softwares
-.. For designing,
+  For designing,
   >   1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
       2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
       3. [Rhinoceros 5](https://www.rhino3d.com/download/rhino/5/latest)
-.. For slicing,
+ 
+  For slicing,
   >   1. [Cura](https://ultimaker.com/en/products/cura-software)
 
 + ## Vinyl cutting
