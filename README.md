@@ -14,6 +14,7 @@ milling & laser cutting machine.
 A fab lab a.k.a fabrication laboratory is a small-scale workshop which is equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make almost anything.This includes technology-enabled products generally perceived as limited to mass production.
 
 ![FAB LAB](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/5253.jpg)
+
 There are 42 fablab in india now, out of which 20 of them are in kerala.MESCEFABLAB is one of this 20 mini fablab, where the students have the oppurtunity to explore the FAB world.
 
 > click [**`here`**](https://www.fablabs.io/labs/mesce) to see our college Fablab page
