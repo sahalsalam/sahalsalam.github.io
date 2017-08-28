@@ -43,7 +43,7 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true" width="350" height="500" />
 
-<img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untitled.jpg?raw=true" width="533" height="300" />  <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untit.jpg?raw=true" width="533" height="300" />
+<img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untitled.jpg?raw=true" width="497" height="280" /> | <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Untit.jpg?raw=true" width="497" height="280" />
 
 + #### Softwares
   For designing,
