@@ -33,19 +33,20 @@ This course gives an introductory knowledge to the students about FabLab and the
     
 + ## 3D Printing
 
-> 3D printing is when 3D solid objects are made from a model on a computer. 3D printing is done by building up the object layer by layer. It is an additive manufacturing process used to create a three-dimensional object in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source. STL is one of the most common file types that 3D printers can read.
+ 3D printing is when 3D solid objects are made from a model on a computer. 3D printing is done by building up the object layer by layer. It is an additive manufacturing process used to create a three-dimensional object in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source. STL is one of the most common file types that 3D printers can read.
 
-> Once completed a required modelusing a software, the STL file needs to be processed by a piece of software called a slicer, which converts the model into a series of thin layers and produces a G-code file containing instructions tailored to a specific type of 3D printer. This G-code file can then be printed.
+ Once completed a required modelusing a software, the STL file needs to be processed by a piece of software called a slicer, which converts the model into a series of thin layers and produces a G-code file containing instructions tailored to a specific type of 3D printer. This G-code file can then be printed.
 
 ![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
+> ### Ultimaker 2+
 > + #### Softwares
->  For designing,
-        1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
-        2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
-        3. [Rhinoceros 5](https://www.rhino3d.com/download/rhino/5/latest)
->  For slicing,
-        1. [Cura](https://ultimaker.com/en/products/cura-software)
+  For designing,
+       1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
+       2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
+       3. [Rhinoceros 5](https://www.rhino3d.com/download/rhino/5/latest)
+  For slicing,
+       1. [Cura](https://ultimaker.com/en/products/cura-software)
 
 + ## Vinyl cutting
 
