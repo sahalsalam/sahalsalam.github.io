@@ -37,15 +37,15 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 Once completed a required modelusing a software, the STL file needs to be processed by a piece of software called a slicer, which converts the model into a series of thin layers and produces a G-code file containing instructions tailored to a specific type of 3D printer. This G-code file can then be printed.
 
-![ULTIMAKER 2+](https://raw.githubusercontent.com/sahalsalam/sahalsalam.github.io/master/IMG_20170823_152007.jpg)
+![ULTIMAKER 2+](https://raw.githubusercontent.com/sahalsalam/sahalsalam.github.io/master/IMG_20170823_152007.jpg) | ![GIF](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-gif-maker.gif)
 
 + #### Softwares
-      > * For designing,
-         1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
-         2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
-         3. [Rhinoceros 5](https://www.rhino3d.com/download/rhino/5/latest)
-        * For slicing,
-         1. [Cura]
+> * For designing,
+      1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
+      2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
+      3. [Rhinoceros 5](https://www.rhino3d.com/download/rhino/5/latest)
+> * For slicing,
+      1. [Cura](https://ultimaker.com/en/products/cura-software)
 
 + ## Vinyl cutting
 
