@@ -63,7 +63,7 @@ A vinyl cutter is a computer-controlled plotting device with a blade instead of 
 
 + ### CNC MILLING
 
-CNC milling is a specific form of computer numerical controlled (CNC) machining. Milling itself is a machining process similar to both drilling and cutting, and able to achieve many of the operations performed by cutting and drilling machines. Like drilling, milling uses a rotating cylindrical cutting tool. However, the cutter in a milling machine is able to move along multiple axes, and can create a variety of shapes, slots and holes.
+CNC milling is a specific form of computer numerical controlled (CNC) machining. Milling itself is a machining process similar to both drilling and cutting, and able to achieve many of the operations performed by cutting and drilling machines. Like drilling, milling uses a rotating cylindrical cutting tool. However, the cutter in a milling machine is able to move along multiple axes, and can create a variety of shapes, slots and holes. 
 
 ![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/milling.gif?raw=true)
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/Shopbot_Desktop.jpg?raw=true" width="600" height="428" />
