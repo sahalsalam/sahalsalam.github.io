@@ -25,11 +25,11 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 + ### CONTENTS
 >   1. [3D Printing](## 3D printing)
-    2. Vinyl cutting
-    3. Circuit production
-    4. Laser
-    5. Precision milling
-    6. CNC-Milling
+>   2. Vinyl cutting
+>   3. Circuit production
+>   4. Laser
+>   5. Precision milling
+>   6. CNC-Milling
     
 + ## 3D Printing
 
@@ -46,8 +46,8 @@ This course gives an introductory knowledge to the students about FabLab and the
 + #### Softwares
   For designing,
   >   1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
-      2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
-      3. [Rhinoceros-5](https://www.rhino3d.com/download/rhino/5/latest)
+  >   2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
+  >   3. [Rhinoceros-5](https://www.rhino3d.com/download/rhino/5/latest)
  
   For slicing,
   >   1. [Cura](https://ultimaker.com/en/products/cura-software)
