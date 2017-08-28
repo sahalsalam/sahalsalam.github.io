@@ -26,10 +26,9 @@ This course gives an introductory knowledge to the students about FabLab and the
 + ### CONTENTS
 >   1. [3D Printing](##3D printing)
 >   2. [Vinyl cutting](##Vinyl cutting)
->   3. Circuit production
+>   3. CNC-Milling
 >   4. Laser
 >   5. Precision milling
->   6. CNC-Milling
     
 + ## 3D Printing
 
@@ -58,6 +57,15 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 A vinyl cutter is a computer-controlled plotting device with a blade instead of a pen. A vector based design is created in a software program and then sent to the cutter where it cuts along the vector paths laid out in the design. The cutter is capable of moving the blade on an X and Y axis over the material, cutting it into any shape imaginable. Since the vinyl material comes in long rolls, projects with significant length like banners or billboards can be easily cut as well. The one major limitation with vinyl cutters is that they can only cut shapes from solid colors of vinyl. A design with multiple colors must have each color cut separately and then layered on top of each other as it is applied to the substrate. Also, since the shapes are cut out of solid colors, photographs and gradients cannot be reproduced with a standalone cutter.
 
+![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-video-to-gif%20(1).gif?raw=true)
 
 <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170824_193636.jpg?raw=true" width="497" height="372" /> | <img src="https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170824_195915.jpg?raw=true" width="497" height="372" />
+
++ ## CNC Milling
+
+CNC milling is a specific form of computer numerical controlled (CNC) machining. Milling itself is a machining process similar to both drilling and cutting, and able to achieve many of the operations performed by cutting and drilling machines. Like drilling, milling uses a rotating cylindrical cutting tool. However, the cutter in a milling machine is able to move along multiple axes, and can create a variety of shapes, slots and holes.
+
+
+
+ShopBot Desktop is a digital fabrication powerhouse. In addition to impressive woodworking capabilities, the Desktop delivers engraving level precision and the power and rigidity to machine parts from wood, plastic, aluminum, and other materials. The Desktop can perform a wide range of workbench, prototyping and production projects. And it is a flexible platform to support your growing digital fabrication interests and needs
 
