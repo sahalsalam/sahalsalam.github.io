@@ -40,7 +40,10 @@ This course gives an introductory knowledge to the students about FabLab and the
 ![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
 > ### Ultimaker 2+
-> + #### Softwares
+
+![](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/IMG_20170823_152007.jpg?raw=true =100x50)
+
++ #### Softwares
   For designing,
        1. [Solidworks](http://www.solidworks.in/sw/support/downloads.htm)
        2. [AutoCAD](https://www.autodesk.in/products/autocad/free-trial)
