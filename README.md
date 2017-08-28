@@ -31,3 +31,5 @@ This course gives an introductory knowledge to the students about FabLab and the
     5. Precision milling
     6. CNC-Milling
     
++ ## 3D Printing
+
