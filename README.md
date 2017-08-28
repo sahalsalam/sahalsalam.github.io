@@ -37,7 +37,7 @@ This course gives an introductory knowledge to the students about FabLab and the
 
 Once completed a required modelusing a software, the STL file needs to be processed by a piece of software called a slicer, which converts the model into a series of thin layers and produces a G-code file containing instructions tailored to a specific type of 3D printer. This G-code file can then be printed.
 
-![ULTIMAKER 2+](https://raw.githubusercontent.com/sahalsalam/sahalsalam.github.io/master/IMG_20170823_152007.jpg) | ![GIF](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-gif-maker.gif)
+<img src="https://raw.githubusercontent.com/sahalsalam/sahalsalam.github.io/master/IMG_20170823_152007.jpg"height="5"width="3" | ![GIF](https://github.com/sahalsalam/sahalsalam.github.io/blob/master/ezgif.com-gif-maker.gif)
 
 + #### Softwares
 > * For designing,
